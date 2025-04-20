@@ -2,7 +2,7 @@
 #include <Geode/modify/MenuLayer.hpp>
 #include <Geode/modify/GameManager.hpp>
 #include <Geode/modify/LoadingLayer.hpp>
-#include <Geode/loader/SettingsV3.hpp>
+#include <Geode/loader/SettingV3.hpp>
 #include "ui/utMenuBackground.hpp"
 #include "ui/utMenuItemLayer.hpp"
 #include "ui/utSettingsHeader.hpp"
